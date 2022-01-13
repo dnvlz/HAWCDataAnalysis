@@ -2,10 +2,9 @@
 Detección de radiación cósmica: análisis de datos con HAWC
 
 Durante mi segundo semestre en el Posgrado en Ciencias Físicas de la UNAM cursé la materia de Laboratorio Avanzado.
-En este curso me familiaricé con ROOT, un software de análisis de datos basado en C++, que fue desarrollado por el CERN 
-(Organización Europea para la Investigación Nuclear) para análisis de datos relativos a física de partículas, pero que
-también se utiliza en astronomía y mineria de datos
-Más información en https://root.cern/
+En este curso me familiaricé con ROOT, un software de análisis de datos basado en C++. ROOT fue desarrollado por el CERN 
+para realizar análisis de datos relativos a física de partículas, pero que también se utiliza en astronomía y mineria 
+de datos. Más información en https://root.cern/
 
 HAWC (por sus siglas en inglés, High Altitude Water Cherenkov Experiment) es un observatorio de rayos cósmicos ubicado 
 en el volcán de Sierra Negra, Puebla México. Tiene la capacidad de detectar rayos gamma con energías en el rango de los 
