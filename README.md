@@ -6,6 +6,9 @@ En este curso me familiaricé con ROOT, un software de análisis de datos basado
 para realizar análisis de datos relativos a física de partículas, pero que también se utiliza en astronomía y mineria 
 de datos. Más información en https://root.cern/
 
+En cada carpeta se encuentran las especificaciones de cada problema a realizar, los programas correspondientes y un 
+PDF donde se compilan y explican los resultados obtenidos.
+
 HAWC (por sus siglas en inglés, High Altitude Water Cherenkov Experiment) es un observatorio de rayos cósmicos ubicado 
 en el volcán de Sierra Negra, Puebla México. Tiene la capacidad de detectar rayos gamma con energías en el rango de los 
 TeV, cubriendo hasta dos tercios de la bóveda celeste. Cuenta con 300 detectores principales de radiación Cherenkov, 
