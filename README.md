@@ -1,5 +1,4 @@
 # HAWCDataAnalysis
-Detección de radiación cósmica: análisis de datos con HAWC
 
 Durante mi segundo semestre en el Posgrado en Ciencias Físicas de la UNAM cursé la materia de Laboratorio Avanzado. En este curso me familiaricé con ROOT, un software basado en C++ que fue desarrollado por el CERN para realizar análisis de datos en física de partículas, pero que también se utiliza en astronomía y minería de datos. Más información en https://root.cern/
 
