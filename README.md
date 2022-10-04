@@ -1,6 +1,6 @@
 # HAWCDataAnalysis
 
-During my second semester at the Postgraduate School of Physical Sciences at UNAM, I became familiar with [ROOT](https://root.cern/), a C++-based software that was developed by CERN to perform data analysis in particle physics, but is also used in astronomy and data minig.
+During my second semester at the Postgraduate School of Physical Sciences at UNAM, I became familiar with [ROOT](https://root.cern/), a C++-based software that was developed by CERN to perform data analysis in particle physics, but is also used in astronomy and data mining.
 
 In each folder there are the specifications of the problems to be carried out, the corresponding programs, and a PDF where some results are compiled and explained.
 
